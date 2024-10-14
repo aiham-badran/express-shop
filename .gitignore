@@ -1,0 +1,9 @@
+node_modules/
+.env
+
+mongo-data/
+
+utils/pyments/
+storage/upload/
+tools/faker/
+
