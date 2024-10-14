@@ -1,7 +1,3 @@
-Here’s the translated description of your e-commerce project and the explanation of the npm scripts into English:
-
----
-
 # Complete E-Commerce Project
 
 This is a complete e-commerce project based on **RESTful APIs**, providing a convenient and seamless shopping experience for users. The project is developed using **Node.js**, **Express**, **Mongoose**, and **MongoDB**.
